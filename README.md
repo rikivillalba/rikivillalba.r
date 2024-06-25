@@ -17,3 +17,9 @@ if (!requireNamespace("devtools", quietly = TRUE)) {
 # Instalar MiPaqueteR desde GitHub
 devtools::install_github("rikivillalba/rikivillalba.r")
 ```
+## Contacto
+
+Para preguntas, problemas o sugerencias, por favor abre un 'issue' en [GitHub](https://github.com/rikivillalba/rikivillalba.r/issues) o contacta con el mantenedor del paquete:
+
+- **Nombre del Mantenedor**: rikivillalba
+- **Correo Electrónico**: rikivillalba@gmail.com
