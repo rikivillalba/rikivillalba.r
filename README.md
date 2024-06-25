@@ -4,6 +4,14 @@
 
 **rikivillalba.r** es un paquete de R que proporciona una colección de funciones utilitarias personalizadas. Entre otras, incluye funciones similares a `let` y `letrec` de Scheme, una función para cambiar la base numérica llamada `rebase`, y más.
 
+
+## Description
+
+**rikivillalba.r** is an R package that provides a collection of custom utility functions. Among others, it includes functions similar to `let` and `letrec` from Scheme, a function to change the numeric base called `rebase`, and more.
+
+## Installation
+
+
 ## Instalación
 
 Puedes instalar el paquete directamente desde GitHub utilizando `devtools`:
